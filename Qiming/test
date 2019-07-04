@@ -1,0 +1,13 @@
+#!/bin/bash
+#PBS -N tradition20172018   #task name
+#PBS -o /home/cs-liuy/mytestfile/neat/result/20172018  #the position of output files, users need to change them to your position
+#PBS -e /home/cs-liuy/mytestfile/neat/result/error    #need change
+#PBS -l nodes=1:ppn=12
+#PBS -l walltime=72:00:00
+#PBS -q cal-l
+#PBS -V
+#PBS -S /bin/bash
+date
+cd /home/cs-liuy/mytestfile/neat               #the position of this file,need to change
+python3 /home/cs-liuy/Neat/traditional_al.py    #the position of submitted file
+date   #the end of time
