@@ -68,3 +68,4 @@ The data is provided by Lendclub
 ## Acknowledgements
 * [NEAT-python](https://github.com/CodeReclaimers/neat-python)
 * [Lending Club](https://www.lendingclub.com/info/download-data.action)
+* [SUSTech HPC](http://hpc.sustc.edu.cn/ENSite/process/download.html) which seems to be only available on IE Browser
