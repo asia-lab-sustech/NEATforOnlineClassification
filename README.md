@@ -40,7 +40,8 @@ python3 newevolve.py a1 a2 a3 a4
 - a2: The size of Time window 
 - a3: α in PAP 
 - a4: β in PAP 
-for example: python3 newevolve.py a1 a2 a3 a4 
+
+for example: python3 newevolve.py 0 500 0 0 
 
 If you want to set other parameters in evolution (like the population size), you can change them in this file: /Neat/config, more explanations can be found in this [link](https://github.com/CodeReclaimers/neat-python)
 
