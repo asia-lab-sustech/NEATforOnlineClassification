@@ -54,6 +54,11 @@ python3 LSTM.py
 <!-- About Results -->
 ## *About Results
 The results will show accuracy, Recall and Specificity in each generation. 
+for example:
+0.716 0.9466292134831461 0.14583333333333334 
+0.722 0.9358288770053476 0.0873015873015873 
+0.732 0.9523809523809523 0.04918032786885246 
+....
 
 <!-- About Data -->
 ## *About Data
